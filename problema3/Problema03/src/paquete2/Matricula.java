@@ -53,7 +53,7 @@ public class Matricula {
     }
     
     public void establecerValorMatricula(){
-        valormatricula = 0.002 * valorvehiculo ;
+        valormatricula = 0.002 * valorvehiculo * añosantiguedadvehiculo;
     }
     
     public int obtenerCedulaDueño(){
