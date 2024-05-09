@@ -21,6 +21,8 @@ public class Ejecutor {
         Libreta2.establecerPromedio();
         
         System.out.printf(" %s\n ", Libreta1);
+        
+        System.out.printf(" %s\n ", Libreta2);
     }
     
 }

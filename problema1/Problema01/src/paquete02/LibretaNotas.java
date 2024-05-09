@@ -31,7 +31,7 @@ public class LibretaNotas {
     
     @Override
     public String toString(){
-        String cadena = String.format("Libreta de calificaciones \n"
+        String cadena = String.format("Libreta de calificaciones \n\n"
                 + "Nombre del Estudiante : %s\n"
                 + "Calificacion1 : %.3f\n"
                 + "Calificacion2 : %.3f\n"
